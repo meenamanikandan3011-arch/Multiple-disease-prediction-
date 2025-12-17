@@ -1,3 +1,5 @@
+AWS Deployment: http://56.228.5.251:8501/
+
 🩺 Multiple Disease Prediction System
 🔍 Overview:
 A machine learning–based healthcare application that predicts the risk of Parkinson’s Disease, Kidney Disease, and Liver Disease using patient medical data. The system helps in early disease detection by providing fast and accurate predictions through an interactive Streamlit web app.
